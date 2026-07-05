@@ -1,0 +1,6 @@
+{
+  "name": "GeoField Map",
+  "description": "Offline-ready GIS mapping and fieldwork app with vector drawing, GPS tracking, custom attribute entry, spatial data interoperability, and AI field assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
